@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 2%;
+}
+
+#map-miPosicion, #mapaMundo { 
+    height: 400px;
+    width: 50%;
+    border: 2px solid black;
+    border-radius: 8%;
+}
